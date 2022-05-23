@@ -1,16 +1,22 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* //// TODO use tailwind */
+
+body{
+  background: rgb(0, 31, 31);
+  font-family: sans-serif;
+  color: #121a26;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+::-webkit-scrollbar-thumb{
+  background-image:linear-gradient(to right bottom, #0de446, #050f90);
+
 }
 
-* {
-  box-sizing: border-box;
+::-webkit-scrollbar{
+  width:8px;
+  height: 0;
+
 }
