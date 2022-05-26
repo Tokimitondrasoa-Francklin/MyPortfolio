@@ -19,7 +19,12 @@ const resume = () => {
             >
               <h5 className='my-3 text-2xl font-bold'>Education</h5>
               
-          
+              <div>
+                <h5 className='my-2 text-xl font-bold'>
+                MERN Fullstack Developer
+                </h5>
+                <p className='font-semibold'>ArkeUp Academy (01 Mars - 27 Mai 2022)</p> 
+              </div>
               <div>
                 <h5 className='my-2 text-xl font-bold'>
                 Master in Management of Minerals Resources and Environment 
