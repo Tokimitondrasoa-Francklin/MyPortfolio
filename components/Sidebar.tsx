@@ -17,7 +17,7 @@ const Sidebar = ()=>{
 
     return (
         <div>
-            <Image src='/images/astro.jpg' 
+            <Image src='/images/DSC_8911 (4).JPG' 
             alt="user avatar" 
             className='mx-auto border rounded-full'
             height="128px"
