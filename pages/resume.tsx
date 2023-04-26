@@ -27,13 +27,13 @@ const resume = () => {
               </div>
               <div>
                 <h5 className='my-2 text-xl font-bold'>
-                Master 2 in Management of Minerals Resources and Environment 
+                Master's degree in Management of Minerals Resources and Environment 
                 </h5>
                 <p className='font-semibold'>University of Ankatso, Antananarivo Madagascar (2018-2020)</p> 
               </div>
               <div>
                 <h5 className='my-2 text-xl font-bold'>
-                Master 2 in Science and Technic in Geophysics & Geomatics
+                Master of Science and Technology in Geophysics and Geomatics
                 </h5>
                 <p className='font-semibold'>Institute and Observatory of Geophysics of Antananarivo (IOGA) (2018-2019)</p>
                
