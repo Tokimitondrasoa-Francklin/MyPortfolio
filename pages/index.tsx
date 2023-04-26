@@ -18,7 +18,7 @@ const index = ({endpoint}) => {
 
   return (
     <div className='flex flex-col flex-grow px-6 pt-1'>
-      <h5 className='my-3 font-medium'>I’m a mining geologist, a geophysicist and a MERN full stack Developer with strong knowledge of Geographic Information System and a 
+      <h5 className='my-3 font-medium'>I’m a mining geologist and a geophysicist with strong knowledge of Geographic Information System and a 
 database development and administration. Easily adaptable to any situations and I can work well as part of 
 a team.
 </h5>
